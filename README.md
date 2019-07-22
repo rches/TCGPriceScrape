@@ -1,0 +1,2 @@
+# TCGPriceScrape
+Created with CodeSandbox
